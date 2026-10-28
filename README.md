@@ -2,10 +2,6 @@
 
 An AI thumbnail studio for YouTube creators. Describe your video, and ThumbCraft optimises your prompt, generates thumbnail images, and saves everything to your history.
 
-🔗 **Live demo:** TODO_ADD_NETLIFY_LINK
-
-![ThumbCraft AI preview](docs/preview.png)
-<!-- TODO: take a screenshot, save it as docs/preview.png -->
 
 ## Features
 
